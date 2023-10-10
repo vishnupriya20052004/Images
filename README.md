@@ -1,4 +1,4 @@
-# Images
+
 # Ex.No:8 To create a gallery control using android studio to display images or photos.
 # AIM:
 To create a gallery control using android studio to display images or photos.
